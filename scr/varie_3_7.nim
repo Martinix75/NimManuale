@@ -1,9 +1,9 @@
-proc provaEccezione(a, b :int)=
-  if a < b:
-    raise newException(IOError, "errore a<b")
-  else:
-    echo("tutto bene!")
-
-let a = 3
-let b = 7
-provaEccezione(a,b)
+#break contine
+var indice = 0
+while true:
+  echo("Entrato in while..")
+  if indice == 3:
+    echo("Entrato in if..")
+    break
+  indice += 1
+echo("Uscito da while grazie e break")
