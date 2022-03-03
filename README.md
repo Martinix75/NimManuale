@@ -4,7 +4,7 @@ ma dovrebeb darti una infarinatura sul linguaggio e vorebbe essere un pratico st
 In questa prima parte, tratto i seguenti argomenti:
 1. Caratteristiche generali di Nim
 2. Assegnazione delle variabili
-3. i tipi di dsati
+3. i tipi di dati
 4. le strutture di controllo
 5. le procedure (funzioni)
 6. programmazione ad oggetti
